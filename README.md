@@ -14,6 +14,8 @@
 
 - Могу похвастаться успешно выполненным тестовым заданием (https://github.com/mikepro-alfamail-ru/domclick)
 
+- FastAPI, Postgresql, Docker, Docker-compose (https://github.com/mikepro-alfamail-ru/flydata)
+
 ### Сертификаты Нетологии
 
 - Python https://github.com/mikepro-alfamail-ru/mikepro-alfamail-ru/blob/main/pybasic.pdf
