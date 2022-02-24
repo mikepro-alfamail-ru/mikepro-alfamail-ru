@@ -34,4 +34,4 @@ Linux, Windows, Bash, Python, Django Framework, FastAPI, Flask, Httpio, Asyncio,
 
 - Python https://github.com/mikepro-alfamail-ru/mikepro-alfamail-ru/blob/main/pybasic.pdf
 
-- GIT https://github.com/mikepro-alfamail-ru/mikepro-alfamail-ru/blob/main/sql.pdf
+- GIT https://github.com/mikepro-alfamail-ru/mikepro-alfamail-ru/blob/main/git.pdf
