@@ -24,6 +24,8 @@ Linux, Windows, Bash, Python, Django Framework, FastAPI, Flask, Httpio, Asyncio,
 
 ### Сертификаты Нетологии
 
+- Python https://github.com/mikepro-alfamail-ru/mikepro-alfamail-ru/blob/main/python.pdf
+
 - Django https://github.com/mikepro-alfamail-ru/mikepro-alfamail-ru/blob/main/django.pdf
 
 - Python в web-разработке https://github.com/mikepro-alfamail-ru/mikepro-alfamail-ru/blob/main/django.pdf
